@@ -1,0 +1,4 @@
+venv/
+data/preprocessed/
+models/*.h5
+models/*.pt
